@@ -1,0 +1,24 @@
+| Program | Software manufacturer | Software version | Software type |
+| :---         |     :---:      |          ---: |          ---: |
+| Windows   | Windows     | 10    | system |
+| WPS office     | Kingsoft Corp.       | 11.2.0.11341      |  application |
+| Notion     | Notion Labs, Incorporated       | 2.0.23      |  application |
+| Adobe Illustrator     | Adobe Inc.       | 2022     |  application |
+| Python     | Python Software Foundation       | 3.9.7 (64-bit)      |  application |
+| OBS Studio     | OBS Project       | 27.1.3      |  application |
+| Logitech G HUB     | Logitech       | 2022.9.315009      |  application |
+| Aim Lab     | Statespace       | 0.6.2      |  application |
+| AutoCAD    | Autodesk       | 23.1.47.0      |  application |
+| Razer Cortex     | Razer Inc.       | 10.3.7.0      |  application |
+
+
+| Apps | Software manufacturer | Software version | Software type |
+| :---         |     :---:      |          ---: |          ---: |
+| iOS   | Apple Inc.     | 16.0.3    | OS |
+| Canvas     | Instructure Inc.       | 6.18.0      |  application |
+| Adobe Lightroom     | Adobe Inc. Incorporated       | 7.5.2      |  application |
+| Gmail     | Google LLC       | 6.0.220918     |  application |
+| Outlook     | Microsoft Corporation       | 4.2240.0      |  application |
+| Discord     | Discord Inc.       | 148.0      |  application |
+| Twitter     | Twitter Inc.       | 9.32      |  application |
+| Chrome     | Google LLC       | 106.0.5249.92      |  application |
